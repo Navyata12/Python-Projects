@@ -1,5 +1,5 @@
 pi=22/7
-r=float(input('enter radiud'))
+r=float(input('enter radius'))
 area=pi*r*r
 print(area)
 #or
